@@ -1,0 +1,7 @@
+/* TAILWIND */
+@import "tailwindcss";
+
+/* GOOGLE FONT  */
+*{
+  font-family: "Outfit", sans-serif;
+}
